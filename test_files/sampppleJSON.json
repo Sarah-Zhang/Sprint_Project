@@ -1,0 +1,13 @@
+{"name": "Nick","prop": {"age": 32, "zipcode": 94607, "DMID": 388167}}
+{ "name": "Nick", "prop": { "age": 32, "zipcode": 94607, "DMID": 388167 } }
+{	"name": "Nick",	"prop": {	"age": 32, 	"zipcode": 94607, 	"DMID": 388167	}	}
+{"name": "Nick",}
+{"name": "Nick"}
+{ "name": "Nick", "prop": { "age": -2, "zipcode": 94607, "DMID": 388167 } }
+{,"prop": {"age": 32, "zipcode": 94607, "DMID": 388167}}
+{"name": ,"prop": {"age": 32, "zipcode": 94607, "DMID": 388167}}
+{"name": "","prop": {"age": 32, "zipcode": 94607, "DMID": 388167}}
+{"name": "Nick","prop": }
+{"name": "Nick","prop": {"age":"", "zipcode": 94607, "DMID": 388167}}
+{"name": "Nick","age": 32,"prop": {"zipcode": 94607, "DMID": 388167}}
+{	}
